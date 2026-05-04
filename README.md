@@ -3,7 +3,7 @@
 <div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Md. Asaduzzaman" "/></div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **PHP Laravel**
 
 - 🌱 I’m currently learning **React Js**
 
