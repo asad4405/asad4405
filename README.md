@@ -35,20 +35,28 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table cellspacing="0" cellpadding="5" style="border:none; border-collapse:collapse;">
+<table cellspacing="0" cellpadding="8" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
-    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+    <!-- Core Frontend -->
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
-    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+    <!-- CSS Frameworks -->
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/></td>
+    <!-- JS Library -->
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></td>
+    <!-- Backend & Database -->
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+    <!-- Tools -->
+    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+    <!-- Design -->
+    <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></td>
   </tr>
 </table>
 
