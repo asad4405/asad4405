@@ -52,8 +52,9 @@
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></td>
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
     <td style="border:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/></td>
-    <!-- Tools -->
+     <!-- Tools -->
     <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+    <td style="border:none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></td>
     <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
     <!-- Design -->
     <td style="border:none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
