@@ -21,6 +21,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40"/>
   </a>&nbsp;
 
+  <a href="https://www.instagram.com/md.asaduzzaman.4405/" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" style="fill: #E4405F;"/>
+  </a>&nbsp;
+
   <a href="mailto:123mdasaduzzaman@gmail.com" style="display:inline-block;">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
   </a>&nbsp;
