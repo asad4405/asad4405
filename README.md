@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages and Tools:</h3>
 <table cellspacing="0" cellpadding="8" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <!-- Core Frontend -->
