@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **PHP Laravel**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Full-Stack JavaScript (MERN Stack, Next.js & TypeScript)**
+  
+- 🎯 Goals: Becoming a versatile Full-Stack Web Developer combining Laravel & Modern JS Ecosystem
 
 - 💬 Ask me about **Web Application**
 
