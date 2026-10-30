@@ -45,10 +45,10 @@ I'm expanding my skills in modern JavaScript technologies to become a versatile 
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,tailwind,bootstrap,jquery" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,tailwind,bootstrap,jquery,html,css" alt="Frontend technologies" />
 </p>
 
 <p>
@@ -57,7 +57,7 @@ I'm expanding my skills in modern JavaScript technologies to become a versatile 
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend 
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend technologies" />
@@ -69,10 +69,10 @@ I'm expanding my skills in modern JavaScript technologies to become a versatile 
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database technologies" />
 </p>
 
-### 🔧 Tools & Development
+### 🔧 Tools 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,linux" alt="Development tools" />
 </p>
 
 ---
